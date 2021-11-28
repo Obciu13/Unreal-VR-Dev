@@ -1,0 +1,2 @@
+D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Development\UnrealVRDev\Definitions.UnrealVRDev.h
+D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Source\UnrealVRDev\UnrealVRDev.h

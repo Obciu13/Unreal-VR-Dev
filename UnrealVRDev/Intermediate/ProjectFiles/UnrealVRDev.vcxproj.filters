@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UnrealVRDev.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{CBB35553-3F30-4B6F-9499-665CB5923B02}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealVRDev.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UnrealVRDevEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DA4EE6F4-4F9F-40C7-A827-77972363E8E2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UnrealVRDev">
+      <UniqueIdentifier>{3B619103-7143-4184-9C70-1775D69432D0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UnrealVRDev\UnrealVRDev.Build.cs">
+      <Filter>Source\UnrealVRDev</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UnrealVRDev\UnrealVRDev.cpp">
+      <Filter>Source\UnrealVRDev</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealVRDev\UnrealVRDev.h">
+      <Filter>Source\UnrealVRDev</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealVRDev\UnrealVRDevGameModeBase.cpp">
+      <Filter>Source\UnrealVRDev</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealVRDev\UnrealVRDevGameModeBase.h">
+      <Filter>Source\UnrealVRDev</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UnrealVRDev\VRCharacter.cpp">
+      <Filter>Source\UnrealVRDev</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UnrealVRDev\VRCharacter.h">
+      <Filter>Source\UnrealVRDev</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

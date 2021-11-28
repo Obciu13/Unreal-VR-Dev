@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Documents\\GitHub\\Unreal-VR-Dev\\UnrealVRDev\\Source\\UnrealVRDev\\UnrealVRDev.Build.cs",
+		"D:\\Documents\\GitHub\\Unreal-VR-Dev\\UnrealVRDev\\Source\\UnrealVRDev.Target.cs",
+		"D:\\Documents\\GitHub\\Unreal-VR-Dev\\UnrealVRDev\\Source\\UnrealVRDevEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.1"
+}

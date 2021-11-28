@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UnrealVRDev-0010.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UnrealVRDevEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Development\UnrealVRDev\UnrealVRDev.cpp.obj"
+"D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Development\UnrealVRDev\UnrealVRDevGameModeBase.cpp.obj"
+"D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Development\UnrealVRDev\VRCharacter.cpp.obj"
+"D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Development\UnrealVRDev\UnrealVRDev.init.gen.cpp.obj"
+"D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Development\UnrealVRDev\UnrealVRDevGameModeBase.gen.cpp.obj"
+"D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Development\UnrealVRDev\VRCharacter.gen.cpp.obj"
+"D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Development\UnrealVRDev\Default.rc2.res"
+/OUT:"D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Development\UnrealVRDev\UE4Editor-UnrealVRDev-0010.lib"

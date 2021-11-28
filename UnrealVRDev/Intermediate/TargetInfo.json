@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "UnrealVRDev",
+			"Path": "D:\\Documents\\GitHub\\Unreal-VR-Dev\\UnrealVRDev\\Source\\UnrealVRDev.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "UnrealVRDevEditor",
+			"Path": "D:\\Documents\\GitHub\\Unreal-VR-Dev\\UnrealVRDev\\Source\\UnrealVRDevEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

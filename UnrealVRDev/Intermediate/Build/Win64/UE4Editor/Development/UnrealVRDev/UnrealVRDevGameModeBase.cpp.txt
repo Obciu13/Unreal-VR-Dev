@@ -1,0 +1,7 @@
+D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Development\UnrealVRDev\Definitions.UnrealVRDev.h
+D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Source\UnrealVRDev\UnrealVRDevGameModeBase.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+D:\Unreal Engine 4\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+D:\Unreal Engine 4\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Documents\GitHub\Unreal-VR-Dev\UnrealVRDev\Intermediate\Build\Win64\UE4Editor\Inc\UnrealVRDev\UnrealVRDevGameModeBase.generated.h
